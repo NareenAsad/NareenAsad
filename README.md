@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nareen Asad</h1>
 <h3 align="center">Software Engineering Student | Web & Mobile Developer | AI Enthusiast</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/nareen-asad">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="mailto:nareenasad07@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square" />
-  </a>
-</p>
 
 ---
 
