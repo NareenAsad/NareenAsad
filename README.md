@@ -24,34 +24,6 @@
 
 ---
 
-### 🔨 Latest Experience
-
-#### 🧠 AI Enhanced Web Development Intern  
-**Nexium** · *Jul 2025 – Present* · Remote  
-- Building scalable, AI-enhanced web applications  
-- Working with `Next.js`, `Tailwind CSS`, `Firebase`, and advanced UI/UX principles
-
-#### 📱 Mobile Developer Fellow  
-**ACM UET Lahore** · *Jul 2024 – Sep 2024* · Remote  
-- Developed Android chat apps using `Kotlin` and `Firebase`  
-- Integrated real-time authentication and chat threading
-
-#### 🚀 Software Engineer Fellow  
-**Headstarter AI, New York** · *Jul 2024 – Sep 2024* · Remote  
-- Deployed 5+ AI-powered web apps with `React.js`, `Next.js`, `Firebase`, `GCP`, and `Vercel`  
-- Built a SaaS flashcard app using `LLama 3.1`, `Groq API`, and `Stripe` for subscription tiers
-
----
-
-### 🌟 Key Projects
-
-- **🧾 AI Flashcard Generator** – React + Next.js + Firebase + Stripe  
-- **🧠 Professor Recommender** – Python + OpenAI + LangChain + Pinecone  
-- **💬 Android Chat App** – Kotlin + Firebase Auth + Realtime Database  
-- **🛒 E-Commerce UIs** – Flutter apps with state management & responsive design
-
----
-
 ### 🧰 Tech Stack
 
 **Languages**  
@@ -65,13 +37,6 @@
 
 **Tools**  
 `Git`, `Figma`, `Photoshop`, `Jupyter Notebook`
-
----
-
-### 📜 Certifications
-
-- 🤖 Artificial Intelligence (ML/DL) – 2022  
-- 📱 Kotlin Mobile Development – 2024  
 
 ---
 
