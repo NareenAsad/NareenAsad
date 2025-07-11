@@ -2,9 +2,6 @@
 <h3 align="center">Software Engineering Student | Web & Mobile Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/NareenAsad">
-    <img src="https://komarev.com/ghpvc/?username=NareenAsad&style=flat-square&color=blue" alt="Profile views" />
-  </a>
   <a href="https://linkedin.com/in/nareen-asad">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
   </a>
