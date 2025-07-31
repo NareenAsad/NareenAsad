@@ -1,24 +1,20 @@
 <h1 align="center">Hi 👋, I'm Nareen Asad</h1>
 <h3 align="center">Software Engineering Student | Web & Mobile Developer | AI Enthusiast</h3>
 
-
 ---
 
 ### 👩‍💻 About Me
 
 - 🎓 **BS Software Engineering**, *Lahore College for Women University* (Expected 2026)  
-- 💼 **Current Intern @ Nexium**, building AI-enhanced websites with **Next.js**, **Tailwind CSS**, and modern dev tools  
-- 💡 Former fellow at **Headstarter AI** and **ACM UET**, developing full-stack AI apps and Android messaging systems  
+- ✅ **Completed AI-Enhanced Web Development Internship @ Nexium** – Built full-stack AI-integrated web apps using **Next.js**, **Tailwind CSS**, and modern dev tools  
+- 💡 Former fellow at **Headstarter AI** and **ACM UET**, where I worked on full-stack AI apps and Android messaging systems  
 - 🌱 Exploring advanced full-stack engineering, LLM integration, and production-ready mobile experiences  
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages**  
-`Python`, `JavaScript`, `Kotlin`, `C#`, `SQL`
-
-**Frameworks/Libraries**  
+**Frameworks & Libraries**  
 `React.js`, `Next.js`, `Flutter`, `Tailwind`, `LangChain`, `Unity`
 
 **Cloud & APIs**  
@@ -34,6 +30,8 @@
 <p align="center">
   <!-- Overall GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=NareenAsad&show_icons=true&theme=react&hide_border=true" width="45%" />
+  <!-- Most used languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareenAsad&layout=compact&theme=react&hide_border=true" width="45%" />
 </p>
 
 ---
