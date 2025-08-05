@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 **BS Software Engineering**, *Lahore College for Women University* (Expected 2026)  
-- 💡 Former fellow at **Headstarter AI**, **Nexium**and **ACM UET**, where I worked on full-stack AI-integrated web apps using **Next.js**, **Tailwind CSS**, and modern dev tools and Android messaging systems  
+- 💡 Former fellow at **Headstarter AI**, **Nexium**and **ACM UET**, where I worked on full-stack AI-integrated web apps using **Next.js**, **Tailwind CSS**, modern dev tools and Android messaging systems  
 - 🌱 Exploring advanced full-stack engineering, LLM integration, and production-ready mobile experiences  
 
 ---
