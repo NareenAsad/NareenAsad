@@ -6,11 +6,12 @@
 ## 👩‍💻 About Me
 
 * 🎓 **BS Software Engineering**, *Lahore College for Women University* (Expected 2026)
-* 💡 Former fellow at **Headstarter AI**, **Nexium**, and **ACM UET** — built full-stack, AI-integrated web applications and Android messaging features using **Next.js**, **Tailwind CSS**, **NestJS**, and **Firebase**
+* 🏆 **2nd Place Winner** at **HEC Generative AI National Hackathon 2025** — built **CoFounderX**, a multi-agent AI system that transforms ideas into launch-ready startups with complete business plans, branding, and pitch decks
 * 🧑‍💼 **Generative AI Intern @ Arch Technologies (2025)** — worked with **LLaMA**, Python, embeddings, and model fine-tuning; developed internal AI tools and automation features
 * 💻 **Web Developer Intern @ Dr Coders (2025)** — contributed to remote Agile sprints, built full-stack modules with **Next.js** & **NestJS**, optimized UI performance, and integrated REST APIs
-* 🌱 Focused on advanced full-stack engineering, LLM integration (RAG, embeddings, LangChain), multi-agent systems, and shipping production-ready mobile experiences using Flutter
-* 🤖 Passionate about building real-world AI products, scalable architectures, and developer tooling
+* 💡 Former fellow at **Headstarter AI** and **Nexium** — built 5+ AI-powered full-stack applications using **React.js**, **Next.js**, **Firebase**, **Groq API**, and **LangChain**
+* 🌱 Focused on advanced full-stack engineering, LLM integration (RAG, embeddings, multi-agent systems), and shipping production-ready AI products
+* 🤖 Passionate about building real-world AI solutions, scalable architectures, and developer tooling
 * ✨ Always exploring new technologies, improving system design skills, and working on projects that combine **AI + full-stack + mobile**
 
 ---
@@ -21,14 +22,22 @@
 `React.js` • `Next.js` • `Tailwind CSS` • `Flutter` • `Unity`
 
 ### **Backend & AI**
-`Node.js` • `NestJS` • `LangChain` • `RAG` • `Firebase Functions`
+`Node.js` • `NestJS` • `Python` • `LangChain` • `RAG` • `Firebase Functions`  
+`LLaMA` • `Hugging Face` • `OpenAI` • `Groq`
 
 ### **Cloud & APIs**
-`Firebase` • `AWS` • `GCP` • `Pinecone`  
-`OpenAI API` • `Groq API` • `Stripe` • `Vercel`
+`Firebase` • `AWS` • `GCP` • `Vercel` • `Pinecone`  
+`Stripe` • `n8n` • `MongoDB` • `Supabase`
 
 ### **Tools**
 `Git` • `Figma` • `Jupyter` • `Photoshop` • `VS Code`
+
+---
+
+## 🏆 Achievements
+
+* 🥈 **2nd Position** - HEC Generative AI Training Cohort 1 National Hackathon (Nov 2025)
+* 🎓 **Generative AI Application Developer** - Pak Angels Certification (Dec 2025)
 
 ---
 
@@ -43,8 +52,9 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: **[linkedin.com/in/nareen-asad](https://linkedin.com/in/nareen-asad)**  
+- 💼 LinkedIn: **[linkedin.com/in/nareen-asad](https://linkedin.com/in/nareen-asad)**
+- 📧 Email: **nareenasad07@gmail.com**
 
 ---
 
-✨ *Thanks for visiting! I’m always open to internships, collaborations, or building cool AI products together.*  
+✨ *Thanks for visiting! I'm always open to internships, collaborations, or building cool AI products together.*
