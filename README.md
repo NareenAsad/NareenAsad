@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nareen Asad</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer | AI & Mobile Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
 
 ---
 
@@ -9,13 +9,13 @@
 * 🏆 **2nd Place Winner** at **HEC Generative AI National Hackathon 2025** — built **CoFounderX**, a multi-agent AI system that transforms ideas into launch-ready startups with complete business plans, branding, and pitch decks
 * 🌱 Focused on advanced full-stack engineering, LLM integration (RAG, embeddings, multi-agent systems), and shipping production-ready AI products
 * 🤖 Passionate about building real-world AI solutions, scalable architectures, and developer tooling
-* ✨ Always exploring new technologies, improving system design skills, and working on projects that combine **AI + full-stack + mobile**
+* ✨ Always exploring new technologies, improving system design skills, and working on projects that combine **AI + full-stack**
 
 ---
 
 ## 🧰 Tech Stack
 
-### **Frontend & Mobile**
+### **Frontend**
 `React.js` • `Next.js` • `Tailwind CSS` • `Flutter` • `Unity`
 
 ### **Backend & AI**
