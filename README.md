@@ -7,9 +7,6 @@
 
 * 🎓 **BS Software Engineering**, *Lahore College for Women University* (Expected 2026)
 * 🏆 **2nd Place Winner** at **HEC Generative AI National Hackathon 2025** — built **CoFounderX**, a multi-agent AI system that transforms ideas into launch-ready startups with complete business plans, branding, and pitch decks
-* 🧑‍💼 **Generative AI Intern @ Arch Technologies (2025)** — worked with **LLaMA**, Python, embeddings, and model fine-tuning; developed internal AI tools and automation features
-* 💻 **Web Developer Intern @ Dr Coders (2025)** — contributed to remote Agile sprints, built full-stack modules with **Next.js** & **NestJS**, optimized UI performance, and integrated REST APIs
-* 💡 Former fellow at **Headstarter AI** and **Nexium** — built 5+ AI-powered full-stack applications using **React.js**, **Next.js**, **Firebase**, **Groq API**, and **LangChain**
 * 🌱 Focused on advanced full-stack engineering, LLM integration (RAG, embeddings, multi-agent systems), and shipping production-ready AI products
 * 🤖 Passionate about building real-world AI solutions, scalable architectures, and developer tooling
 * ✨ Always exploring new technologies, improving system design skills, and working on projects that combine **AI + full-stack + mobile**
