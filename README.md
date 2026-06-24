@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me
 
 * 🎓 **BS Software Engineering**, *Lahore College for Women University* (Expected 2026)
-* 🏆 **2nd Place Winner** at **HEC Generative AI National Hackathon 2025** — built **CoFounderX**, a multi-agent AI system that transforms ideas into launch-ready startups with complete business plans, landing pages, pitch decks, and financial projections
+* 🏆 **2nd Place Winner** at **HEC Generative AI National Hackathon 2025** — built **CoFounderX**, a multi-agent AI system that transforms ideas into launch-ready startups with complete business p[...]
 * 🌱 Focused on advanced full-stack engineering, LLM integration (RAG, embeddings, multi-agent systems), and shipping production-ready AI products
 * 🤖 Passionate about building real-world AI solutions, scalable architectures, and developer tooling
 * ✨ Always exploring new technologies, improving system design skills, and working on projects that combine **AI + full-stack**
@@ -27,7 +27,7 @@
 `Docker` • `MongoDB` • `Supabase` • `Pinecone` • `Redis`
 
 ### **APIs & Tools**
-`Stripe` • `n8n` • `Git` • `Figma` • `Jupyter` • `Photoshop` • `VS Code`
+`Stripe` • `n8n` • `Git` • `Figma` • `Jupyter` • `Photoshop` • `Antigravity` • `Cursor`
 
 ---
 
