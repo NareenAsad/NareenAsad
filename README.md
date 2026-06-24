@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me
 
 * 🎓 **BS Software Engineering**, *Lahore College for Women University* (Expected 2026)
-* 🏆 **2nd Place Winner** at **HEC Generative AI National Hackathon 2025** — built **CoFounderX**, a multi-agent AI system that transforms ideas into launch-ready startups with complete business plans, branding, and pitch decks
+* 🏆 **2nd Place Winner** at **HEC Generative AI National Hackathon 2025** — built **CoFounderX**, a multi-agent AI system that transforms ideas into launch-ready startups with complete business p[...]
 * 🌱 Focused on advanced full-stack engineering, LLM integration (RAG, embeddings, multi-agent systems), and shipping production-ready AI products
 * 🤖 Passionate about building real-world AI solutions, scalable architectures, and developer tooling
 * ✨ Always exploring new technologies, improving system design skills, and working on projects that combine **AI + full-stack**
@@ -19,15 +19,15 @@
 `React.js` • `Next.js` • `Tailwind CSS` • `Flutter` • `Unity`
 
 ### **Backend & AI**
-`Node.js` • `NestJS` • `Python` • `LangChain` • `RAG` • `Firebase Functions`  
+`Node.js` • `NestJS` • `Python` • `LangChain` • `CrewAI` • `RAG` • `Firebase Functions`  
 `LLaMA` • `Hugging Face` • `OpenAI` • `Groq`
 
-### **Cloud & APIs**
-`Firebase` • `AWS` • `GCP` • `Vercel` • `Pinecone`  
-`Stripe` • `n8n` • `MongoDB` • `Supabase`
+### **Cloud, DevOps & Databases**
+`Firebase` • `AWS` • `GCP` • `Vercel` • `Railway`  
+`Docker` • `MongoDB` • `Supabase` • `Pinecone` • `Redis`
 
-### **Tools**
-`Git` • `Figma` • `Jupyter` • `Photoshop` • `VS Code`
+### **APIs & Tools**
+`Stripe` • `n8n` • `Git` • `Figma` • `Jupyter` • `Photoshop` • `VS Code`
 
 ---
 
