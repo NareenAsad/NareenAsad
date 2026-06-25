@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://via.placeholder.com/1920x300/27272a/ffffff?text=Full+Stack+Developer+%7C+AI+Enthusiast" alt="Banner" width="100%"/>
-</div>
+![Banner](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
 <h1 align="center">Hi there, I'm Nareen Asad! 👋</h1>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNareenAsad%2FNareenAsad&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNareenAsad%2FNareenAsad&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+</p>
 
 <br/>
 
@@ -75,7 +75,7 @@
 
 <!-- GitHub Stats -->
 
-# GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NareenAsad&show_icons=true&theme=react&hide_border=true" width="46%" />
