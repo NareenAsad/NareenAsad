@@ -1,4 +1,4 @@
-![Banner](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
+<img width="2161" height="728" alt="ChatGPT Image Jun 25, 2026, 12_18_31 PM" src="https://github.com/user-attachments/assets/f4ba7b51-bc8e-4be1-bfba-eca9e0ae4dfc" />
 
 <h1 align="center">Hi there, I'm Nareen Asad! 👋</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
@@ -55,11 +55,6 @@
 | **Lahore Route Finder**   | Interactive map-based route navigation system for Lahore with real-time directions                 | `React.js` `Mapbox` `Google Maps API` `Node.js`                                                    |
 | **Hydraverse**   | Immersive web3 gaming and metaverse platform with interactive environments                       | `Three.js` `Next.js` `Web3` `Solidity` `Wagmi`                                                      |
 | **Immigration Law Firm** | Professional website for immigration legal services with case management features                  | `Next.js` `Tailwind CSS` `Supabase` `Prisma`                   |
-
-### 🤖 NCEAC-HEC GenAI Projects
-
-| Project          | Description                                                                                    | Tech Stack                                                    |
-| :--------------- | :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
 | **AI Expense Analyzer**   | AI-powered financial analysis app with expense tracking and smart insights                       | `Python` `Streamlit` `Groq LLM` `Matplotlib`                                                    |
 | **Mood Tracker App**   | Sentiment analysis app for tracking emotional patterns and well-being                           | `Python` `Streamlit` `LLM` `Plotly`                                                      |
 | **Customer-Support FAQ Chatbot** | Domain-specific chatbot with NLP preprocessing for customer queries                  | `Python` `Gradio` `Groq LLM` `NLP`                   |
