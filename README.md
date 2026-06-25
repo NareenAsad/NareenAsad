@@ -1,10 +1,7 @@
 ![Banner](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
 <h1 align="center">Hi there, I'm Nareen Asad! 👋</h1>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNareenAsad%2FNareenAsad&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-</p>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | AI Enthusiast</h3>
 
 <br/>
 
@@ -13,6 +10,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/nareen-asad"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username nareen-asad" /></a>
   <a href="mailto:nareenasad07@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Nareen Asad" /></a>
+  <a href="https://discord.com/users/nareenasad"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Discord profile of nareenasad" /></a>
 </div>
 
 <br/>
@@ -51,8 +49,6 @@
 <br>
 
 ## 📚 Other Projects
-
-### 🌐 WebDev Showcase
 
 | Project          | Description                                                                                    | Tech Stack                                                    |
 | :--------------- | :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
