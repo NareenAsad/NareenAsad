@@ -1,9 +1,6 @@
 <img width="2161" height="728" alt="ChatGPT Image Jun 25, 2026, 12_18_31 PM" src="https://github.com/user-attachments/assets/f4ba7b51-bc8e-4be1-bfba-eca9e0ae4dfc" />
 
 <h1 align="center">Hi there, I'm Nareen Asad! 👋</h1>
-<h3 align="center">Software Engineer | AI Enthusiast</h3>
-
-<br/>
 
 <!-- Links -->
 
